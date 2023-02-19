@@ -8,23 +8,5 @@ import { Router } from '@angular/router';
 })
 export class AppComponent {
   title = 'AdminUser';
-  /*router:Router;
-  constructor(router:Router)
-  {
-    this.router = router;
-  }
-
-  onClick(input:string)
-  {
-    if(input=='admin')
-    {
-       this.router.navigate(['admin']);
-    }
-    else if(input=='user')
-    {
-      this.router.navigate(['user']);
-    }
-
-  }
-  */
+  
 }
